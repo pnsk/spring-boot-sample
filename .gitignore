@@ -1,9 +1,10 @@
 /*
 
-!./.gitignore
 
 !./README.md
 !./pom.xml  
 !./src
+!./.gitignore
+
 
  
