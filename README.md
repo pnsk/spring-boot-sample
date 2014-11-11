@@ -6,8 +6,8 @@ spring-boot sample
 cd spring-boot-sample
 mysql -uroot  < scripts/ddl/create_sample_data.sql 
 ```
-#### Java version 
-1.7.x
+### Requirements
+* Java 1.7
 
 ## run psample
 ```
