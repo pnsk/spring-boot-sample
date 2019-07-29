@@ -14,7 +14,7 @@ mysql -uroot  < scripts/ddl/create_sample_data.sql
 mvn clean compile spring-boot:run
 ```
 
-[test](http://pnsk.github.io/spring-boot-sample)
+[Spring boot Sample's page](http://pnsk.github.io/spring-boot-sample)
 
  
 
